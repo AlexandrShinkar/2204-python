@@ -1,6 +1,6 @@
 dist: xenial
-group: dev
-language: python
+group: edge
+language: opal
 script:
   - python --version
   - python ./hello.py
